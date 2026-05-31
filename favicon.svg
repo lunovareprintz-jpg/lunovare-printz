@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect width="64" height="64" fill="#080808"/>
+  <!-- Diagonal accent bar (brand's signature angular slash) -->
+  <polygon points="44,4 60,4 60,60 44,60" fill="#FF5C00" opacity="0.15"/>
+  <!-- L -->
+  <text
+    x="7" y="48"
+    font-family="Arial Black, Arial, sans-serif"
+    font-weight="900"
+    font-size="40"
+    fill="#FFFFFF"
+    letter-spacing="-2">L</text>
+  <!-- P in orange -->
+  <text
+    x="31" y="48"
+    font-family="Arial Black, Arial, sans-serif"
+    font-weight="900"
+    font-size="40"
+    fill="#FF5C00"
+    letter-spacing="-2">P</text>
+  <!-- Orange bottom bar -->
+  <rect x="6" y="54" width="52" height="3" fill="#FF5C00"/>
+</svg>
